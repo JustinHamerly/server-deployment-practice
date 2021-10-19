@@ -13,9 +13,9 @@ describe('Testing Express Server', () => {
 
     let param = 'i am some some words';
 
-    let response = await request.post('/talk'.send({
+    let response = await request.post('/talk').send({
       words: param,
-    }));
+    });
 
     expect(response.status).toBe(200);
     expect(typeof(response.text)).toBe('string');
