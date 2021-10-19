@@ -11,10 +11,11 @@ Created by Justin Hamerly
 
 * Build a server that can successfully be deployed to Heroku.
 
-## Links to application deployment
+## Links
 
 [DEV TESTING HEROKU SERVER](https://justin-server-deploy-dev.herokuapp.com/)\
-[PRODUCTION HEROKU SERVER](https://justin-server-deploy-prod.herokuapp.com/)
+[PRODUCTION HEROKU SERVER](https://justin-server-deploy-prod.herokuapp.com/)\
+[GITHUB](https://github.com/JustinHamerly/server-deployment-practice/tree/dev)
 
 ## UML
 
