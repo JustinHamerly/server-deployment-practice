@@ -4,11 +4,21 @@ Created by Justin Hamerly
 
 ## Installation
 
+* Dependencies: dotenv, express, jest, supertest\
+* install with npm install
+
 ## Summary of Problem Domain
+
+* Build a server that can successfully be deployed to Heroku.
 
 ## Links to application deployment
 
+[DEV TESTING HEROKU SERVER](https://justin-server-deploy-dev.herokuapp.com/)\
+[PRODUCTION HEROKU SERVER](https://justin-server-deploy-prod.herokuapp.com/)
+
 ## UML
+
+![UML](./server-deployment-practice-UML.PNG)
 
 ## Routes
 
